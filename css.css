@@ -1,4 +1,4 @@
-      :root {
+ :root {
         --header-bc-color: #1f2937;
         --text-color: #f9faf8;
         --buton-bc-color: #3882f6;
@@ -187,7 +187,7 @@
       .header-img,.title, .define{
         display: block;
       }
-      
+
       .inner-thor{
       padding: 0;
       }
@@ -203,7 +203,7 @@
         border-radius: 10px;
       }
       .div11{
-        
+
         height: 3rem;
               }
       .button2{
