@@ -119,6 +119,9 @@
       .inner-thor {
         padding: 6rem;
       }
+       .inner-thor p{
+        font-style: italic;
+      }
       .thor {
         padding-left: 70%;
       }
